@@ -1,6 +1,6 @@
-#AtHome Cenrtal Box ISO
+# AtHome Cenrtal Box ISO
 This repository will teach you how to install our Raspberry PI ISO with all the necessary.
-###Prerequisites
+### Prerequisites
 - Raspberry PI 3
 - 8 GB sd card minimum
 - SD card reader
@@ -9,7 +9,7 @@ This repository will teach you how to install our Raspberry PI ISO with all the 
 - Gestionnaire d'archive (7Zip, Winrar etc)
 
 
-##Linux/Windows/MacOS
+## Linux/Windows/MacOS
 - Unzip the .7z file that you have downloaded with your favorite archive manager.
 - Connect your player sd to your computer with the SD card.
 - Start Etcher.
