@@ -6,7 +6,7 @@ This repository will teach you how to install our Raspberry PI ISO with all the 
 - SD card reader
 - Etcher : https://etcher.io/
 - Raspberry PI Custom ISO : https://mega.nz/#!RBUVADiS!spCdQCvrZTU8oLTmPK9MdLScdyvHq60enfO-F7eYhOo
-- Gestionnaire d'archive (7Zip, Winrar etc)
+- Archive Manager (7Zip, Winrar etc)
 
 
 ## Linux/Windows/MacOS
