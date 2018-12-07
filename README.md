@@ -5,7 +5,7 @@ This repository will teach you how to install our Raspberry PI ISO with all the 
 - 8 GB sd card minimum
 - SD card reader
 - Etcher : https://etcher.io/
-- Raspberry PI Custom ISO : https://mega.nz/#!sUk3ACRa!tiLgBY5BFokUBMVKsrfgxKFc8Q-EkNBEh9jZoUyyZek
+- Raspberry PI Custom ISO : https://mega.nz/#!Uodw1YrJ!CnxYPVFXljJaidEm7izqWetv8AUb--REnellIxXmXp0
 - Archive Manager (7Zip, Winrar etc)
 
 
